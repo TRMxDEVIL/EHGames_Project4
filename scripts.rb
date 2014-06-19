@@ -12,7 +12,7 @@ def eh_LeaveHomeFirstTime
 	#$game_variables[3] - son
 	#$game_variables[4] - wife
 	#$game_variables[5] - daughter
-	
+	#Wurst
 	son = $game_variables[3]
 	wife = $game_variables[4]
 	daughter = $game_variables[5]
