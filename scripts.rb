@@ -5,7 +5,7 @@ end
 def eh_SetSwitches
     @data[0001] = true
     #DEBUG Switch
-    @data[0003] = false	
+    @data[0003] = true
 end
 
 def eh_LeaveHomeFirstTime
